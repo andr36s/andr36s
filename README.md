@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👨‍💻 ¡Hola! Soy Andrés – Desarrollador Full Stack
 
-<!--
-**andr36s/andr36s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “La calidad del software está directamente ligada a la claridad del pensamiento.” – Edsger W. Dijkstra
 
-Here are some ideas to get you started:
+Soy desarrollador Full Stack, con experiencia en distintas herramientas tecnologicas como NodeJs, JavaScript, Git, y Mongo, React (En curso). Consolidando habilidades técnicas a través de proyectos prácticos y formación autodidacta, expecializandome en el desarrollo de interfaces limpias, lógicas backend estructuradas y documentación clara.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combino mi pasión por el software con principios de productividad, aprendizaje efectivo y mejora continua.
+
+---
+
+## 🚀 Tecnologías y herramientas que estoy utilizando
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andr36s&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andr36s&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🧩 Proyectos destacados
+
+- [📚 Documentación General](https://github.com/andr36s/documentacion-general): Recopilación estructurada de mis aprendizajes técnicos. Ideal para seguir mi evolución como desarrollador.
+- Pendiente...
+
+---
+
+## 🎯 Objetivos Actuales
+
+- Pendiente...
+
+---
+
+## 📫 Conecta conmigo
+
+- GitHub: [@andr36s](https://github.com/andr36s)
+- Correo: andres40106@gmail.com
