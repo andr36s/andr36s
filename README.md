@@ -34,13 +34,16 @@ Combino mi pasión por el software con principios de productividad, aprendizaje 
 ## 🧩 Proyectos destacados
 
 - [📚 Documentación General](https://github.com/andr36s/documentacion-general): Recopilación estructurada de mis aprendizajes técnicos. Ideal para seguir mi evolución como desarrollador.
-- Pendiente...
+- [📚 Control versiones git](https://github.com/andr36s/control-versiones-git): Gestión avanzada e implementación con Git y GitHub. Control de versiones, ramas, conflictos, merges y flujo de trabajo local/remoto.
+- [📚 Fullstack open](https://github.com/andr36s/fullstack-open): Enfocado en React, APIs con Node.js y Express, bases de datos con MongoDB y el uso de GraphQL como alternativa moderna a REST.
 
 ---
 
 ## 🎯 Objetivos Actuales
 
-- Pendiente...
+- Desarrollar proyectos que resuelvan problemas reales y refuercen buenas prácticas de desarrollo.
+- Consolidar habilidades en desarrollo frontend con diseño de interfaces accesibles y modernas.
+- Implementar buenas prácticas de Clean Code, patrones de diseño y principios SOLID.
 
 ---
 
