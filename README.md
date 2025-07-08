@@ -41,8 +41,8 @@ Combino mi pasión por el software con principios de productividad, aprendizaje 
 
 ## 🎯 Objetivos Actuales
 
-- Desarrollar proyectos que resuelvan problemas reales y refuercen buenas prácticas de desarrollo.
-- Consolidar habilidades en desarrollo frontend con diseño de interfaces accesibles y modernas.
+- Desarrollar proyectos que resuelvan problemas reales y refuercen conocimientos de desarrollo Full Stack.
+- Consolidar habilidades en desarrollo con diseño de interfaces accesibles y modernas.
 - Implementar buenas prácticas de Clean Code, patrones de diseño y principios SOLID.
 
 ---
